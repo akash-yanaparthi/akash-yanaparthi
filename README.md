@@ -1,28 +1,254 @@
-<h1 align="center">Hi 👋, I'm Akash Yanaparthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-yanaparthi" alt="akash-yanaparthi" /></a> </p>
+# 👋 Hey, I'm Akash Yanaparthi
 
-- 🔭 I’m currently working on **DevOps,AI,Full Stack Development**
+### 🚀 Full-Stack Developer • DevOps Enthusiast • AI Explorer
 
-- 🌱 I’m currently learning **Content Creation, Devops, AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/akash-yanaparthi](https://github.com/akash-yanaparthi)
-
-- 📫 How to reach me **vram5265@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash yanaparthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash yanaparthi" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_yanaparthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_yanaparthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash_yanaparthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_yanaparthi" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/akash-yanaparthi">
+    <img src="https://komarev.com/ghpvc/?username=akash-yanaparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/akash-yanaparthi?tab=followers">
+    <img src="https://img.shields.io/github/followers/akash-yanaparthi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/akash-yanaparthi">
+    <img src="https://img.shields.io/github/stars/akash-yanaparthi?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/akash-yanaparthi">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/akash-yanaparthi">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/akash_yanaparthi">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/akash_yanaparthi">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-yanaparthi&show_icons=true&locale=en&layout=compact" alt="akash-yanaparthi" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&locale=en" alt="akash-yanaparthi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&" alt="akash-yanaparthi" /></p>
+## 👨‍💻 About Me
+
+I'm **Akash Yanaparthi**, a developer from 🇮🇳 India who enjoys building applications, exploring cloud infrastructure, and learning emerging technologies.
+
+* 🔭 Currently working on **DevOps, AI & Full-Stack Development**
+* 🌱 Currently learning **Content Creation, DevOps & AI**
+* 💻 Interested in **Web Development, Cloud, Automation & AI**
+* 🚀 Building projects that combine **software + infrastructure + AI**
+* 📂 Check out all my projects on **[GitHub](https://github.com/akash-yanaparthi)**
+* 💬 Always interested in learning, building and experimenting with new technologies
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" alt="Languages" />
+</p>
+
+### ⚛️ Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" alt="Frontend and Backend" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,bash,linux" alt="DevOps and Cloud" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github" alt="Databases and Tools" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yanaparthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-yanaparthi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=akash-yanaparthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/akash-yanaparthi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/akash-yanaparthi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/akash-yanaparthi">
+  <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github" alt="Explore Projects" />
+</a>
+
+</div>
+
+> **Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with the names of two of your actual repositories.**
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akash-yanaparthi/akash-yanaparthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 📊 More GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-yanaparthi&theme=tokyonight" alt="GitHub Profile Summary" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-yanaparthi&theme=tokyonight" alt="Repositories Per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-yanaparthi&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/akash-yanaparthi" alt="Akash's GitHub Contribution Calendar" />
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   🤖 Artificial Intelligence                     ║
+║   ☁️  Cloud & DevOps                             ║
+║   🐳 Docker & Kubernetes                         ║
+║   ⚙️  CI/CD & Automation                         ║
+║   🌐 Full-Stack Development                      ║
+║   🎥 Content Creation                            ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+---
+
+# 💡 What I Like Building
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  🌐 Modern Web Applications                         │
+│  🤖 AI-powered Applications                         │
+│  ☁️  Cloud-native Systems                           │
+│  🐳 Containerized Applications                      │
+│  ⚙️  Automated CI/CD Pipelines                      │
+│  📊 Developer Tools & Dashboards                    │
+│  🔌 APIs & Backend Services                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:vram5265@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vram5265%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/akash-yanaparthi">
+  <img src="https://img.shields.io/badge/LinkedIn-Akash%20Yanaparthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/akash_yanaparthi">
+  <img src="https://img.shields.io/badge/Instagram-@akash__yanaparthi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://leetcode.com/akash_yanaparthi">
+  <img src="https://img.shields.io/badge/LeetCode-Akash%20Yanaparthi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider starring my repositories!
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" alt="Footer" />
+
+</div>
