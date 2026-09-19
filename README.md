@@ -1,254 +1,117 @@
 <div align="center">
+👋 Hi, I'm Akash Yanaparthi
+🚀 Full-Stack Developer | ☁️ DevOps Enthusiast | 🤖 AI Explorer
+<p> <a href="https://github.com/akash-yanaparthi"> <img src="https://komarev.com/ghpvc/?username=akash-yanaparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/akash-yanaparthi?tab=followers"> <img src="https://img.shields.io/github/followers/akash-yanaparthi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /> </a> </p> <p> <a href="https://github.com/akash-yanaparthi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/akash-yanaparthi"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://leetcode.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="mailto:vram5265@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> </div>
+👨‍💻 About Me
 
-# 👋 Hey, I'm Akash Yanaparthi
+I'm Akash Yanaparthi, a developer from 🇮🇳 India passionate about building modern software, exploring cloud infrastructure, and experimenting with AI.
 
-### 🚀 Full-Stack Developer • DevOps Enthusiast • AI Explorer
+I enjoy working across the stack — from creating user-friendly web applications to building backend services, automating deployments, and exploring cloud-native technologies.
 
-<p>
-  <a href="https://github.com/akash-yanaparthi">
-    <img src="https://komarev.com/ghpvc/?username=akash-yanaparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/akash-yanaparthi?tab=followers">
-    <img src="https://img.shields.io/github/followers/akash-yanaparthi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/akash-yanaparthi">
-    <img src="https://img.shields.io/github/stars/akash-yanaparthi?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
-  </a>
-</p>
+🔭 Currently working on Full-Stack Development, DevOps & AI
 
-<p>
-  <a href="https://github.com/akash-yanaparthi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/akash-yanaparthi">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/akash_yanaparthi">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://leetcode.com/akash_yanaparthi">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+🌱 Currently learning Cloud, Kubernetes, CI/CD & AI
 
-</div>
+💻 Interested in Web Development, Cloud Infrastructure & Automation
 
----
+🤖 Exploring AI-powered applications and developer tools
 
-## 👨‍💻 About Me
+☁️ Learning how to build and deploy scalable cloud-native applications
 
-I'm **Akash Yanaparthi**, a developer from 🇮🇳 India who enjoys building applications, exploring cloud infrastructure, and learning emerging technologies.
+🎥 Exploring technical content creation
 
-* 🔭 Currently working on **DevOps, AI & Full-Stack Development**
-* 🌱 Currently learning **Content Creation, DevOps & AI**
-* 💻 Interested in **Web Development, Cloud, Automation & AI**
-* 🚀 Building projects that combine **software + infrastructure + AI**
-* 📂 Check out all my projects on **[GitHub](https://github.com/akash-yanaparthi)**
-* 💬 Always interested in learning, building and experimenting with new technologies
+🚀 Always building, learning, and experimenting
 
----
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" alt="Languages" /> </p>
+🌐 Full-Stack Development
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" alt="Full Stack Technologies" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,bash,linux" alt="Cloud and DevOps Technologies" /> </p>
+🗄️ Databases & Developer Tools
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github" alt="Databases and Tools" /> </p>
+🚀 What I Like Building
+🌐 Modern Full-Stack Applications
+🤖 AI-Powered Applications
+☁️ Cloud-Native Systems
+🐳 Containerized Applications
+⚙️ CI/CD Pipelines & Automation
+📊 Developer Tools & Dashboards
+🔌 REST APIs & Backend Services
 
-## 🧰 Tech Stack
+📌 Featured Projects
+<div align="center"> <a href="https://github.com/akash-yanaparthi"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/akash-yanaparthi"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" /> </a> </div>
 
-### 💻 Languages
+💡 Replace the repository names above with your two strongest projects.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" alt="Languages" />
-</p>
+☁️ DevOps & Cloud Journey
 
-### ⚛️ Frontend & Backend
+I'm interested in the complete lifecycle of an application:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" alt="Frontend and Backend" />
-</p>
+        💻 Development
+              │
+              ▼
+        📦 Git & GitHub
+              │
+              ▼
+        🐳 Docker
+              │
+              ▼
+        ⚙️ CI/CD
+              │
+              ▼
+        ☸️ Kubernetes
+              │
+              ▼
+        ☁️ AWS / Cloud
+              │
+              ▼
+        📈 Monitoring & Scaling
 
-### ☁️ DevOps & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,bash,linux" alt="DevOps and Cloud" />
-</p>
+My goal is to understand not only how to build software, but also how to deploy, automate, maintain, and scale it.
 
-### 🗄️ Databases & Tools
+🤖 Currently Exploring
+Area	Focus
+🤖 AI	AI-powered applications & LLM technologies
+☁️ Cloud	AWS & cloud architecture
+☸️ Kubernetes	Containers & orchestration
+⚙️ DevOps	CI/CD & automation
+🌐 Full-Stack	Modern web applications
+🎥 Content	Technical content creation
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yanaparthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-yanaparthi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" /> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/akash-yanaparthi/akash-yanaparthi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </div>
+🎯 My Current Focus
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  🤖 Build AI-powered applications               │
+│                                                  │
+│  ☁️  Learn cloud architecture & AWS             │
+│                                                  │
+│  ☸️  Improve Kubernetes knowledge               │
+│                                                  │
+│  ⚙️  Build reliable CI/CD pipelines             │
+│                                                  │
+│  🌐 Create scalable full-stack applications      │
+│                                                  │
+│  🎥 Share what I learn through content           │
+│                                                  │
+└──────────────────────────────────────────────────┘
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github" alt="Databases and Tools" />
-</p>
+💡 My Development Philosophy
 
----
+Build. Break. Learn. Automate. Repeat. 🚀
 
-# 📊 GitHub Analytics
+I believe the best way to learn technology is by building real projects, solving problems, understanding how things work, and continuously improving.
 
+📫 Let's Connect
+<div align="center"> <a href="https://github.com/akash-yanaparthi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/akash-yanaparthi"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://leetcode.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="mailto:vram5265@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yanaparthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-yanaparthi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akash-yanaparthi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/akash-yanaparthi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/akash-yanaparthi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/akash-yanaparthi">
-  <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github" alt="Explore Projects" />
-</a>
-
-</div>
-
-> **Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with the names of two of your actual repositories.**
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/akash-yanaparthi/akash-yanaparthi/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-# 📊 More GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-yanaparthi&theme=tokyonight" alt="GitHub Profile Summary" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-yanaparthi&theme=tokyonight" alt="Repositories Per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash-yanaparthi&theme=tokyonight" alt="Most Commit Language" />
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0e75b6/akash-yanaparthi" alt="Akash's GitHub Contribution Calendar" />
-
-</div>
-
----
-
-# 🎯 Currently Exploring
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   🤖 Artificial Intelligence                     ║
-║   ☁️  Cloud & DevOps                             ║
-║   🐳 Docker & Kubernetes                         ║
-║   ⚙️  CI/CD & Automation                         ║
-║   🌐 Full-Stack Development                      ║
-║   🎥 Content Creation                            ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
-# 💡 What I Like Building
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  🌐 Modern Web Applications                         │
-│  🤖 AI-powered Applications                         │
-│  ☁️  Cloud-native Systems                           │
-│  🐳 Containerized Applications                      │
-│  ⚙️  Automated CI/CD Pipelines                      │
-│  📊 Developer Tools & Dashboards                    │
-│  🔌 APIs & Backend Services                         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:vram5265@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vram5265%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/akash-yanaparthi">
-  <img src="https://img.shields.io/badge/LinkedIn-Akash%20Yanaparthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/akash_yanaparthi">
-  <img src="https://img.shields.io/badge/Instagram-@akash__yanaparthi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://leetcode.com/akash_yanaparthi">
-  <img src="https://img.shields.io/badge/LeetCode-Akash%20Yanaparthi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider starring my repositories!
-
-### 💙 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" alt="Footer" />
-
-</div>
+⭐ Thanks for visiting my profile!
+🚀 Keep Building. Keep Learning. Keep Growing.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" alt="Footer" /> </div>
