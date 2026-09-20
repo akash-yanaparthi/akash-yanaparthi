@@ -40,12 +40,9 @@ I enjoy working across the stack — from creating user-friendly web application
 📊 Developer Tools & Dashboards
 🔌 REST APIs & Backend Services
 
-📌 Featured Projects
-<div align="center"> <a href="https://github.com/akash-yanaparthi"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/akash-yanaparthi"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=akash-yanaparthi&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" /> </a> </div>
 
-💡 Replace the repository names above with your two strongest projects.
 
-☁️ DevOps & Cloud Journey
+
 
 I'm interested in the complete lifecycle of an application:
 
@@ -80,12 +77,7 @@ Area	Focus
 ⚙️ DevOps	CI/CD & automation
 🌐 Full-Stack	Modern web applications
 🎥 Content	Technical content creation
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yanaparthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-yanaparthi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" /> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/akash-yanaparthi/akash-yanaparthi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </div>
+
 🎯 My Current Focus
 ┌──────────────────────────────────────────────────┐
 │                                                  │
