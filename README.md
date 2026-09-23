@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, I'm Akash Yanaparthi
+👋 Hi, I'm Akashhh
 🚀 Full-Stack Developer | ☁️ DevOps Enthusiast | 🤖 AI Explorer
 <p> <a href="https://github.com/akash-yanaparthi"> <img src="https://komarev.com/ghpvc/?username=akash-yanaparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/akash-yanaparthi?tab=followers"> <img src="https://img.shields.io/github/followers/akash-yanaparthi?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /> </a> </p> <p> <a href="https://github.com/akash-yanaparthi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/akash-yanaparthi"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://leetcode.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="mailto:vram5265@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> </div>
 👨‍💻 About Me
