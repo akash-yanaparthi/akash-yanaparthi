@@ -4,9 +4,9 @@
 <p> <a href="https://github.com/akash-yanaparthi"> <img src="https://komarev.com/ghpvc/?username=akash-yanaparthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </a> </p> <p> <a href="https://github.com/akash-yanaparthi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/akash-yanaparthi"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://leetcode.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="mailto:vram5265@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> </div>
 👨‍💻 About Me
 
-I'm Akash Yanaparthi, a developer from 🇮🇳 India who enjoys building software, exploring cloud infrastructure, and experimenting with AI.
+I'm Akash Yanaparthi, a developer from 🇮🇳 India passionate about building modern software, exploring cloud infrastructure, and experimenting with AI.
 
-I like working across the complete application lifecycle — from writing code and designing APIs to containerizing applications, automating deployments, and learning how systems scale in the cloud.
+I enjoy working across the complete application lifecycle — from writing code and designing APIs to containerizing applications, automating deployments, and learning how systems scale.
 
 🚀 Building full-stack applications
 
@@ -22,7 +22,7 @@ I like working across the complete application lifecycle — from writing code a
 
 🎥 Exploring technical content creation
 
-🌱 Constantly learning, building, and experimenting
+🌱 Always building, learning, and experimenting
 
 🛠️ Tech Stack
 💻 Languages
@@ -64,7 +64,7 @@ I like working across the complete application lifecycle — from writing code a
           📈 MONITORING & SCALING
 
 
-I'm interested in understanding what happens beyond writing code — how applications are deployed, automated, secured, monitored, maintained, and scaled.
+I'm interested in understanding what happens beyond writing code — how applications are deployed, automated, monitored, maintained, and scaled.
 
 🤖 Currently Exploring
 <table> <tr> <td align="center">🤖<br><b>AI</b></td> <td>AI-powered applications, LLMs & intelligent developer tools</td> </tr> <tr> <td align="center">☁️<br><b>Cloud</b></td> <td>AWS, cloud architecture & scalable infrastructure</td> </tr> <tr> <td align="center">☸️<br><b>Kubernetes</b></td> <td>Container orchestration & cloud-native systems</td> </tr> <tr> <td align="center">⚙️<br><b>DevOps</b></td> <td>CI/CD, automation & reliable deployments</td> </tr> <tr> <td align="center">🌐<br><b>Full-Stack</b></td> <td>Modern web applications & backend systems</td> </tr> <tr> <td align="center">🎥<br><b>Content</b></td> <td>Sharing what I learn through technical content</td> </tr> </table>
@@ -89,12 +89,10 @@ I'm interested in understanding what happens beyond writing code — how applica
 
 Build. Break. Learn. Automate. Repeat. 🚀
 
-I believe the best way to learn technology is by building real projects, breaking things, understanding why they fail, and continuously improving.
+I believe the best way to learn technology is by building real projects, solving problems, understanding how things work, and continuously improving.
 
 I'm not just interested in making applications work — I want to understand how they are built, deployed, automated, maintained, and scaled.
 
-📊 GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akash-yanaparthi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yanaparthi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yanaparthi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/> </div>
 📫 Let's Connect
 <div align="center"> <a href="https://github.com/akash-yanaparthi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/akash-yanaparthi"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://leetcode.com/akash_yanaparthi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="mailto:vram5265@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 <div align="center">
